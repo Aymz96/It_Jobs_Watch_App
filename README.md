@@ -1,4 +1,4 @@
-# It Job Watch Project Repo & Code
+# It Job Watch Project Repo & Code :computer: :cd:
 
 ### Set Up
 - Firstly you need to install vagrant for your specific machine by heading over to https://www.vagrantup.com/downloads.html.
