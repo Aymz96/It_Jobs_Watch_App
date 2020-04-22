@@ -8,7 +8,7 @@
     "type": "amazon-ebs",
 
     "subnet_id":"subnet-0e9b6138ff1ce18f2",
-    
+
     "region":"eu-west-1",
 
     "associate_public_ip_address": true,
@@ -38,7 +38,7 @@
     },
     {
       "type": "file",
-      "source": "It_jobs_Watch_code",
+      "source": "It_jobs_Watch_Code",
       "destination": "/home/ubuntu"
     }
   ]
