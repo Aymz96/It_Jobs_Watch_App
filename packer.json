@@ -39,7 +39,7 @@
     {
       "type": "file",
       "source": "It_jobs_Watch_code",
-      "destination": "/home/ubuntu/app"
+      "destination": "/home/ubuntu"
     }
   ]
 }
