@@ -33,12 +33,12 @@
   "provisioners": [
     {
       "type": "chef-solo",
-      "cookbook_paths": ["./berks-cookbooks"],
+      "cookbook_paths": ["./Cookbooks"],
       "run_list":["It_Jobs_Watch_Cookbook::default"]
     },
     {
       "type": "file",
-      "source": "It_jobs_Watch_Code",
+      "source": "It_Jobs_Watch_Code",
       "destination": "/home/ubuntu"
     }
   ]
